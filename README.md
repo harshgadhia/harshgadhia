@@ -14,6 +14,8 @@
 
 I'm a **Senior Software Engineer / Tech Lead** at Intuit, on the core platform team behind our internal Kubernetes platform. My work sits at the intersection of **agentic AI and platform engineering**: I build autonomous AI debugging workflows and MCP servers on top of production infrastructure, so thousands of engineers can ship without becoming Kubernetes experts.
 
+Underpinning it all is **observability as a platform**: high-throughput telemetry pipelines (Kafka, Numaflow — observability ingest peaking at 25K+ records/sec), metrics with Prometheus, dashboards in Grafana, and log analytics in Splunk. Trustworthy telemetry is what makes both human debugging and my AI debugging agents possible — you can't auto-diagnose what you can't see.
+
 | Metric | Impact |
 |:--|:--|
 | 🕰️ | **13+ years** building production distributed systems |
@@ -29,6 +31,7 @@ I'm a **Senior Software Engineer / Tech Lead** at Intuit, on the core platform t
 - **🤖 Agentic AI for infra** — LangGraph-orchestrated multi-agent debugging workflows that correlate logs, metrics, and deploys to auto-diagnose incidents; production MCP servers exposing Kubernetes ops as first-class tools for LLM agents; authored Claude skills
 - **🏗️ Internal developer platforms** — self-service capabilities, paved-road CI/CD, GitOps on Kubernetes
 - **🌊 Streaming at scale** — Kafka, Numaflow (observability ingest peaking at 25K+ records/sec)
+- **🔭 Observability as a platform** — telemetry engineers actually trust: Prometheus metrics, Grafana dashboards, Splunk log analytics, and the high-throughput ingest pipelines feeding both humans and debugging agents
 - **💡 Cost-aware design** — I treat cost as a first-class constraint, from the first design sketch
 
 ---
